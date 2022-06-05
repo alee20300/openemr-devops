@@ -12,7 +12,8 @@ OpenEMR administration and deployment tooling
 
 See our [product comparison](https://www.open-emr.org/wiki/index.php/AWS_Cloud_Packages_Comparison) for more information on the costs and features of each offering. 
 
-### Other Hosting
+### Other Hosting  ss
+
 
 * [Ubuntu Installer](packages/lightsail): Launch OpenEMR on any Ubuntu 16.04 instance; examples given for AWS Lightsail hosting
 * [Virtual Appliance](packages/appliance): Downloadable virtual appliance encapsulating a full OpenEMR install
